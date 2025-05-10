@@ -110,7 +110,7 @@ A responsive, single-page marketing website for a fictional software resale star
 ## 🚀 Deployment
 
 The site is deployed on **Vercel**  
-🔗 [View Live Site](https://your-deployment-url.vercel.app)  
+🔗 [View Live Site](https://softsell-brown.vercel.app/)  
 
 ---
 
